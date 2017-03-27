@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  TestLogIn
+//
+//  Created by CC on 2017/3/23.
+//  Copyright © 2017年 CC. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define QQappid @"2222"
+
+#define KEY_QQ_PASSWORD @"com.userQQ.dictionaryKey"
+#define QQ_PASSWORD @"com.QQ.keychainKey"
+
+#define KEY_WX_PASSWORD @"com.userWX.dictionaryKey"
+#define WX_PASSWORD @"com.WX.keychainKey"
+
+#endif /* PrefixHeader_pch */
